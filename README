@@ -1,0 +1,7 @@
+Battle Garegga bootleg boardset compatibility patches
+=====================================================
+
+This repo contains patches that mitigate minor errors seen on the
+"bgaregga" / "1945 II New Ver" clone arcade hardware.
+
+Please read patch.s's comments for specifics.
